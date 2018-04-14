@@ -4,4 +4,4 @@ Based on the tutorial on https://www.ssaurel.com/blog/learn-to-create-a-tetris-g
 
 A Tetris game for Java Swing.
 
-Added functionality for holding tetrominoes and displaying next 5 tetrominoes. 
+I added functionality for holding tetrominoes and displaying next 5 tetrominoes. 
